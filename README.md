@@ -1,4 +1,4 @@
-                                                                 ** # Brain-Tumor-Classification-Using-CNN-on-MRI-Images**
+                                                         ** # Brain-Tumor-Classification-Using-CNN-on-MRI-Images**
 **Project Overview**
 
  This project implements a deep learning model based on Convolutional Neural Networks (CNN) to classify brain tumors from MRI images. The model identifies three types of brain tumors — glioma, meningioma, and pituitary tumor — as well as no tumor cases, enabling automated and accurate diagnosis assistance.
